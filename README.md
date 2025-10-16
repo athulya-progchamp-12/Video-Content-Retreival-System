@@ -35,7 +35,7 @@ If you want to run the app outside Colab:
 pip install -r requirements.txt
 
 2.Run the streamlit app
-streamlit run app.py
+streamlit run main.py
 
 ## Notes
 
