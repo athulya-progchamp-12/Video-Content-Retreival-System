@@ -1,4 +1,4 @@
-# Auto-generated main.py from notebook: vqa_smolvlm_streamlitfinalpart1(1).ipynb
+
 # Please review before running.
 
 
