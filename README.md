@@ -23,21 +23,4 @@ This repository contains the project files for a Video Content Retrieval System 
 
 The notebook will display matching frames and similarity scores.
 
----
-
-## Optional: Run Locally
-
-If you want to run the app outside Colab:
-
-1. Install Python dependencies:
-
-```bash
-pip install -r requirements.txt
-
-2.Run the streamlit app
-streamlit run main.py
-
-## Notes
-
-Outputs have been cleared for GitHub rendering.
-Use a GPU runtime in Colab for faster processing.
+--
